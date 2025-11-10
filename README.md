@@ -168,6 +168,7 @@ This project is licensed under the MIT License — you’re free to use, modify,
 
 **Elaheh Akbarian**  
 Web Developer | WordPress, PHP & Laravel | HTML & CSS Enthusiast
+
 📧 Email: elaheh.akb1987@gmail.com  
 💬 Telegram: @elahehakb  
 🌍 GitHub: [elahehakb](https://github.com/elahehakb)
